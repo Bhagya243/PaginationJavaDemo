@@ -17,14 +17,14 @@
         android:layout_centerVertical="true"
         android:layout_marginLeft="15dp"
         android:layout_toRightOf="@id/imageView"
-        android:text="Belal Khan"
+        android:text="Testing"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
-        android:textColor="@color/colorDefault" />
+        android:textColor="@android:color/black" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:layout_below="@id/imageView"
-        android:background="@color/colorDefault" />
+        android:background="@android:color/black" />
 
 </RelativeLayout>

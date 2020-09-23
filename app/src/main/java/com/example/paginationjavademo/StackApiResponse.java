@@ -1,4 +1,4 @@
-package com.example.paginationjavademo.POJO;
+package com.example.paginationjavademo;
 
 
 import java.util.List;
@@ -14,7 +14,7 @@ import java.util.List;
         public String link;
     }
 
-    class Item {
+     class Item {
         public Owner owner;
         public boolean is_accepted;
         public int score;
